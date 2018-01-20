@@ -1,0 +1,6 @@
+This File is the dictionary of all files being used in this project.
+
+1. Netstat_Output.txt - Generates a text file based on the netstat cmd output.
+2. Attack_Log.txt - Reads the Netstat_Output.txt to generate a log file every time the server runs.
+3. Machine_Python.csv - Has a single row out of the Read_from_Excel file and sends the Data to the ML server.
+4. ML_Output.csv - Gives the Result of the ML in a file whether an attack has been detected or not.
